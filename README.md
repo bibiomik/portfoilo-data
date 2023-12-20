@@ -1,4 +1,4 @@
-# Portfoilo Data Analysty
+# Portfoilo Data Analyst
 
 I am passionate about data science, and I created a data portfolio to showcase my work and skills for job applications.
 
